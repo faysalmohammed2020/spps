@@ -1,0 +1,37 @@
+.container{
+    width: 100%;
+    background: #4B53BC;
+    border: 2px solid #4B53BC;
+    border-radius: 50px;
+   
+}
+.mid{
+    width: 80%;
+    margin:100px auto;
+
+}
+#grab{
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    background-color: #7B83EB;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-left: 470px;
+}
+#user-content{
+    color: white;
+    text-align: center;
+    background-color: #7B83EB;
+    border: 2px solid #7B83EB;
+    border-radius: 30px;
+   
+    
+}
+h1{
+    text-align: center;
+    color: white;
+
+}
