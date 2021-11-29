@@ -190,16 +190,114 @@ h3 {
 
 
 
-#progressbar {
+#progressbar1 {
     background-color: black;
     border-radius: 13px;
     /* (height of inner div) / 2 + padding */
     padding: 3px;
 }
 
-#progressbar > div {
+#progressbar1 > div {
     background-color: #4F57DF;
-    width: 40%;
+    width: 90%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+}
+#progressbar2 {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+}
+
+#progressbar2 > div {
+    background-color: #4F57DF;
+    width: 85%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+}
+#progressbar3 {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+}
+
+#progressbar3 > div {
+    background-color: #4F57DF;
+    width: 80%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+}
+#progressbar4 {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+}
+
+#progressbar4 > div {
+    background-color: #4F57DF;
+    width: 70%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+}
+#progressbar5 {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+}
+
+#progressbar5 > div {
+    background-color: #4F57DF;
+    width: 75%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+}
+#progressbar6 {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+}
+
+#progressbar6 > div {
+    background-color: #4F57DF;
+    width: 65%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+}
+#progressbar7 {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+}
+
+#progressbar7 > div {
+    background-color: #4F57DF;
+    width: 80%;
+    /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+}
+#progressbar8 {
+    background-color: black;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+}
+
+#progressbar8 > div {
+    background-color: #4F57DF;
+    width: 85%;
     /* Adjust with JavaScript */
     height: 20px;
     border-radius: 10px;
