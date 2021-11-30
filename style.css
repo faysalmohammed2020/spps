@@ -376,3 +376,70 @@ footer p{
      
 }
 
+@media only screen and (max-width: 992px) {
+    nav{
+        display: flex;
+        flex-direction: column;
+        margin-left: 350px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .flexible-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .name-section {
+        margin-top: 100px;
+        padding-left: 325px;
+    }
+    .half-width {
+        width: 30%;
+        margin-top: 50px;
+        margin-left: 60px;
+    }
+    .half-width.about {
+        margin-left: 325px;
+    }
+    .project-item{
+        margin-left: 325px;
+        margin-right: 50px;
+        padding-left: 10px;
+        margin-top: 15px;
+    }
+    .project-item:hover {
+        box-shadow: 10px 5px 20px gray;
+        width: 20%;
+        margin-left: 325px;
+        margin-right: 50px;
+        padding-left: 10px;
+        margin-top: 15px;
+        border-left: 2px solid;
+        border-image: linear-gradient(orange, tomato);
+        border-image-slice: 1;
+    }
+    .skills{
+        margin-left: 300px;
+        padding: 10px;
+        margin-top: 50px;
+        
+    }
+    section {
+        margin-bottom: 100px;
+    }
+    #secondskils{
+        margin-top: 20px;
+    }
+    .contact-item{
+        margin-left: 300px;
+        padding: 30px;
+    }
+    #message{
+        margin-top: 10px;
+    }
+    footer {
+        
+        text-align: center;
+        margin-left: 210px;
+    }
+}
